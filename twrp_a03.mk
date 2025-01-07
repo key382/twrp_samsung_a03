@@ -20,5 +20,5 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := a03
 PRODUCT_NAME := twrp_a03
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := SM-A035F
+PRODUCT_MODEL := SM-A035M
 PRODUCT_MANUFACTURER := samsung
